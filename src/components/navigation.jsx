@@ -1,4 +1,4 @@
-import Logo from './logo.png';
+
 
 export const Navigation = (props) => {
   return (
